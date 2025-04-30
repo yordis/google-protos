@@ -3,7 +3,7 @@
 For Elixir files generated from [Google's protobuf files](https://github.com/google/protobuf/tree/master/src/google/protobuf) using [protobuf-elixir](https://github.com/tony612/protobuf-elixir).
 
 > [!CAUTION]
-> ⚠️ This repo has been **deprecated** in favor of https://github.com/elixir-protobuf/protobuf
+> This repo has been **deprecated** in favor of the [main Protobuf library](https://github.com/elixir-protobuf/protobuf).
 > To upgrade, remove `:google_protos` and upgrade `:protobuf` to v0.14+.
 
 ## How-To
